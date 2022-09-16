@@ -68,7 +68,7 @@ $.ajax({
                 <h2 class="text-center font-bold">${nama}</h2>
                 <h4 class="text-center">${jabatan} ${negara}</h4>
                 <hr>
-                <div class="text-center">
+                <div class="text-center font-stdbig">
                   Hewan Peliharaan:
                   <ul class="peliharaan">
                     ${h}
