@@ -1084,6 +1084,9 @@ h3 {
   width: 200px;
   height: auto;
   opacity: .8;
+  @media screen and (max-width:766px) {
+    display: none;
+  }
   img {
     width: 100%;
     height: 100%;
