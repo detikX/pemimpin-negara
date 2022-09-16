@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "nama": "Jokowi Dodo",
+    "jabatan": "Presiden",
+    "negara":"Indonesia",
+    "img": "img/presiden/jokowi.jpg",
+    "flag":"img/flag/indonesia.png",
+    "hewan":["Rusa","Kodok", "Beruang"],
+    "detail":"<p>Presiden Jokowi bisa dibilang sebagai Presiden Indonesia paling anti-mainstream. Sebab Presiden ketujuh Indonesia ini memang memiliki gaya kepresidenan yang berbeda dari kepala pemerintahan yang biasa. Presiden Jokowi selalu membuat gebrakan dalam setiap penampilannya dan selalu bikin para netizen salah fokus.</p> <p>Dan mungkin, salah satu item favorit Presiden Jokowi adalah sarung. Pasalnya tak hanya dalam situasi non-formal saja, Presiden Jokowi juga kedapatan mengenakan sarung dalam kunjungan kerja beberapa waktu lalu di Semarang. Yuk sama-sama kita intip gaya Presiden asal Solo, Jawa Tengah, ini ketika mengenakan sarung.</p>"
+  },
+  {
+    "id": 2,
+    "nama": "Ratu Elizabeth III",
+    "jabatan": "Presiden",
+    "negara":"Inggris",
+    "img": "img/presiden/elizabeth.jpeg",
+    "flag":"img/flag/united-kingdom.png",
+    "hewan":["Anjing","Kucing"],
+    "detail":"<p>Kasus suap dari buronan koruptor Djoko Tjandra sebesar USD 5.000 dan pencucian uang USD 444.900 tahun 2019.</p>"
+  },
+  {
+    "id": 3,
+    "nama": "Moon Jae In",
+    "jabatan": "Presiden",
+    "negara":"Korea Selatan",
+    "img": "img/presiden/korsel.jpg",
+    "flag":"img/flag/south-korea.png",
+    "hewan":["Anjing si hua hua","Kucing"],
+    "detail":"<p>Kasus suap dari buronan koruptor Djoko Tjandra sebesar USD 5.000 dan pencucian uang USD 444.900 tahun 2019.</p>"
+  }
+
+]
