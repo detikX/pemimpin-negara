@@ -66,15 +66,18 @@ $.ajax({
               <img src="${foto}" alt="${nama}" title="${nama}" loading="lazy">
             </div>
             <div class="helping">
-              <h2 class="text-center font-bold">${nama}</h2>
-              <h4 class="text-center">${jabatan} ${negara}</h4>
-              <hr>
-              <div class="text-center">
-                Hewan Peliharaan:
-                <ul class="peliharaan">
-                  ${h}
-                </ul>
+              <div class="to-top">
+                <h2 class="text-center font-bold">${nama}</h2>
+                <h4 class="text-center">${jabatan} ${negara}</h4>
+                <hr>
+                <div class="text-center">
+                  Hewan Peliharaan:
+                  <ul class="peliharaan">
+                    ${h}
+                  </ul>
+                </div>
               </div>
+              
             </div>
           </div>
           <div class="isi">

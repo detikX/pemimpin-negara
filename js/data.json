@@ -24,10 +24,10 @@
     "nama": "Moon Jae In",
     "jabatan": "Presiden",
     "negara":"Korea Selatan",
-    "img": "img/presiden/korsel.jpg",
+    "img": "img/presiden/moon.jpeg",
     "flag":"img/flag/south-korea.png",
     "hewan":["Anjing si hua hua","Kucing"],
-    "detail":"<p>Kasus suap dari buronan koruptor Djoko Tjandra sebesar USD 5.000 dan pencucian uang USD 444.900 tahun 2019.</p>"
+    "detail":"<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo enim velit nesciunt ea autem consectetur, ipsa quidem laboriosam ab dolorem, repudiandae eveniet voluptates, dolores fugiat repellendus illum aliquid suscipit debitis?.</p> <p><div class='isi__img'><img src='img/presiden/korsel.jpg'/></div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo enim velit nesciunt ea autem consectetur, ipsa quidem laboriosam ab dolorem, repudiandae eveniet voluptates, dolores fugiat repellendus illum aliquid suscipit debitis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo enim velit nesciunt ea autem consectetur, ipsa quidem laboriosam ab dolorem, repudiandae eveniet voluptates, dolores fugiat repellendus illum aliquid suscipit debitis?</p>"
   },
   {
     "id": 4,
