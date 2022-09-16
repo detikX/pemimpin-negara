@@ -2,7 +2,7 @@ $max: 766px;
 // $blue: rgb(83, 157, 192);
 $primary: #fafafa;
 $orange: #f7941f;
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,700,900);
 body {
   // background: linear-gradient(to bottom, #50a3a2 0%, #78cc6d 100%)!important;
 }
@@ -67,7 +67,7 @@ section {
       text-align: center;
       font-size: 52px;
       text-shadow: 2px 2px #ff6a14;
-      font-family: 'Montserrat' !important;
+      font-family: 'Quicksand' !important;
       @media screen and (max-width:766px) {
         
         font-size: 38px;
@@ -1008,6 +1008,9 @@ h3 {
         }
       }
       .isi {
+        p,div {
+          font-size: 18px;
+        }
         &__img {
           width: 75%;
           height: auto;
