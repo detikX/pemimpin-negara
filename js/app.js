@@ -24,11 +24,9 @@ $(".scroll-down").click(() => {
 })
 
 
-$(".contents").hide()
-$("#cekit").click(()=>{
-  $(".contents").fadeIn()
+$(".to-top-opt").click(()=>{
   $('html, body').animate({
-    scrollTop: $(".contents").offset().top
+    scrollTop: $(".semua").offset().top
   }, 500);
 })
 

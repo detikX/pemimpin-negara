@@ -1063,3 +1063,15 @@ h3 {
     object-fit: contain;
   }
 }
+
+.to-top-opt {
+  color: white;
+  cursor: pointer;
+  transition: .3s;
+  width: 150px;
+  margin: 0 auto;
+  display: block;
+  &:hover {
+    color: #ececec;
+  }
+}
