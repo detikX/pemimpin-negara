@@ -80,7 +80,9 @@ $.ajax({
           </div>
           <div class="isi">
             ${detail}
-            
+            <div class="isi__animasi">
+              <img src="img/kaki.png" />
+            </div>
           </div>
         </div>
       
