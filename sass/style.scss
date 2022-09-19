@@ -3,6 +3,7 @@ $max: 766px;
 $primary: #fafafa;
 $orange: #f7941f;
 @import url(https://fonts.googleapis.com/css?family=Quicksand:400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Bubblegum+Sans);
 body {
   // background: linear-gradient(to bottom, #50a3a2 0%, #78cc6d 100%)!important;
 }
@@ -63,11 +64,11 @@ section {
     // width: 80vw;
     h2 {
       color: #fff;
-      font-weight: bold;
+      // font-weight: bold;
       text-align: center;
-      font-size: 52px;
+      font-size: 72px;
       text-shadow: 2px 2px #ff6a14;
-      font-family: 'Quicksand' !important;
+      font-family: 'Bubblegum Sans' !important;
       @media screen and (max-width:766px) {
         
         font-size: 38px;
@@ -1106,4 +1107,28 @@ h3 {
     height: 100%;
     object-fit: contain;
   }
+}
+
+.pembukaan {
+  position: relative;
+  &__img {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    opacity: .2;
+    width: 240px;
+    z-index: 1;
+    @media screen and (max-width:766px) {
+      width: 120px;
+    }
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+  }
+}
+
+.bubbles {
+  font-family: 'Bubblegum Sans';
 }
