@@ -107,7 +107,7 @@ $.ajax({
         $('.slider-nav .slick-slide.slick-current').addClass('is-active');
       })
       .slick({
-        slidesToShow: 7,
+        slidesToShow: 4.6,
         slidesToScroll: 2,
         dots: false,
         focusOnSelect: false,
