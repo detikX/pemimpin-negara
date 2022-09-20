@@ -63,6 +63,9 @@ $.ajax({
             <div class="image">
               <img src="${foto}" alt="${nama}" title="${nama}" loading="lazy">
             </div>
+            <div class="helping__abs">
+              <img src="img/bgbg.png" alt="bancground Abstract" title="bancground Abstract" loading="lazy"/>
+            </div>
             <div class="helping">
               <div class="to-top">
                 <h2 class="text-center font-bold">${nama}</h2>

@@ -1,93 +1,83 @@
 [
   {
     "id": 1,
-    "nama": "Jokowi Dodo",
+    "nama": "Joko Widodo",
     "jabatan": "Presiden",
     "negara":"Indonesia",
     "img": "img/presiden/jokowi.jpeg",
     "flag":"img/flag/indonesia.png",
-    "hewan":["Rusa","Kodok", "Beruang"],
-    "detail":"<p>Presiden Jokowi bisa dibilang sebagai Presiden Indonesia paling anti-mainstream. Sebab Presiden ketujuh Indonesia ini memang memiliki gaya kepresidenan yang berbeda dari kepala pemerintahan yang biasa. Presiden Jokowi selalu membuat gebrakan dalam setiap penampilannya dan selalu bikin para netizen salah fokus.</p> <p> <div class='isi__img'><img src='https://awsimages.detik.net.id/community/media/visual/2017/03/13/0eff82e0-d7b1-4dd3-a01c-a974e7ff9f25_169.png?w=700&q=90' at='nama' title='nanma'/> </div>    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo enim velit nesciunt ea autem consectetur, ipsa quidem laboriosam ab dolorem, repudiandae eveniet voluptates, dolores fugiat repellendus illum aliquid suscipit debitis?</p><p>Dan mungkin, salah satu item favorit Presiden Jokowi adalah sarung. Pasalnya tak hanya dalam situasi non-formal saja, Presiden Jokowi juga kedapatan mengenakan sarung dalam kunjungan kerja beberapa waktu lalu di Semarang. Yuk sama-sama kita intip gaya Presiden asal Solo, Jawa Tengah, ini ketika mengenakan sarung.</p> <p>Presiden Jokowi bisa dibilang sebagai Presiden Indonesia paling anti-mainstream. Sebab Presiden ketujuh Indonesia ini memang memiliki gaya kepresidenan yang berbeda dari kepala pemerintahan yang biasa. Presiden Jokowi selalu membuat gebrakan dalam setiap penampilannya dan selalu bikin para netizen salah fokus.</p> <p> <div class='isi__img'><img src='https://awsimages.detik.net.id/community/media/visual/2017/03/13/0eff82e0-d7b1-4dd3-a01c-a974e7ff9f25_169.png?w=700&q=90' at='nama' title='nanma'/> </div>    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo enim velit nesciunt ea autem consectetur, ipsa quidem laboriosam ab dolorem, repudiandae eveniet voluptates, dolores fugiat repellendus illum aliquid suscipit debitis?</p><p>Dan mungkin, salah satu item favorit Presiden Jokowi adalah sarung. Pasalnya tak hanya dalam situasi non-formal saja, Presiden Jokowi juga kedapatan mengenakan sarung dalam kunjungan kerja beberapa waktu lalu di Semarang. Yuk sama-sama kita intip gaya Presiden asal Solo, Jawa Tengah, ini ketika mengenakan sarung.</p>"
+    "hewan":["Katak","Kambing", "Burung"],
+    "detail":"<p>Semenjak Joko Widodo menjadi orang nomor satu di Indonesia, penghuni Istana Kepresidenan di Bogor, Jawa Barat, semakin ramai. Selain rusa totol yang memenuhi halaman Istana, Presiden Indonesia yang ketujuh ini sengaja menebar kecebong ke tiga kolam di sana.</p> <p>Jokowi membiarkan kecebong itu bermetamorfosis menjadi katak dewasa. Suara amfibi itu dinilai mampu menenangkan pikiran. “Kalau malam kan jadi ada suara kodok. <i>Kwang-kwong, kwang-kwong, kwang-kwong</i>. Apalagi setiap turun hujan. Kan enak, jadi <i>fresh</i> otaknya,” kata Jokowi dalam sebuah kesempatan. Karena begitu melekatnya kecebong dengan Jokowi, pihak yang kontra-Jokowi kerap memanggil pendukungnya dengan istilah cebong.</p><p>Selain kodok, kambing menjadi salah satu hewan favorit Jokowi. Hewan pemakan rumput ini pernah masuk channel YouTube Joko Widodo. Saat itu Jokowi memperlihatkan kambing peliharaannya yang baru saja melahirkan anak. Bapak tiga anak ini menyebutkan memelihara lima ekor kambing. Kambing itu terdiri atas tiga ekor kambing betina dan dua ekor kambing jantan. Terakhir kali, kambing-kambing tersebut sudah beranak pinak menjadi 11 ekor.</p><p>Jokowi juga mengoleksi aneka burung kicau yang ia ambil dari Pasar Pramuka. Ia pernah menuliskan cerita tentang burung kicau peliharaannya di Facebook resmi Jokowi. Namun tidak semua terus-menerus dipelihara. Sebagian burung itu, yang berjumlah 190 ekor, sudah dilepas, di antaranya burung jalak kebo, jalak nias, jalak biasa, kapasan, puter, perkutut, kutilang sutra, kutilang biasa, dan trucuk.</p>"
   },
   {
     "id": 2,
-    "nama": "Ratu Elizabeth III",
-    "jabatan": "Presiden",
+    "nama": "Ratu Elizabeth II",
+    "jabatan": "Ratu Kerajaan",
     "negara":"Inggris",
     "img": "img/presiden/ratu.jpeg",
     "flag":"img/flag/united-kingdom.png",
-    "hewan":["Anjing","Kucing"],
-    "detail":"<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo enim velit nesciunt ea autem consectetur, ipsa quidem laboriosam ab dolorem, repudiandae eveniet voluptates, dolores fugiat repellendus illum aliquid suscipit debitis?.</p> <p><div class='isi__img'><img src='img/presiden/elizabeth.jpeg'/></div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo enim velit nesciunt ea autem consectetur, ipsa quidem laboriosam ab dolorem, repudiandae eveniet voluptates, dolores fugiat repellendus illum aliquid suscipit debitis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo enim velit nesciunt ea autem consectetur, ipsa quidem laboriosam ab dolorem, repudiandae eveniet voluptates, dolores fugiat repellendus illum aliquid suscipit debitis?</p>"
+    "hewan":["Anjing Corgi"],
+    "detail":"<p>Sepanjang hidupnya, Ratu Elizabeth tidak hanya memegang janji setia kepada rakyatnya di Kerajaan Inggris. Selama kurang lebih 70 tahun berkuasa, Ratu Elizabeth turut berdedikasi merawat anjing <i>corgi</i> miliknya hingga ke 14 generasi. Selama itu pula, Ratu Elizabeth merawat lebih dari 30 anjing <i>corgi</i> jenis Pembroke Welsh <i>Corgi</i>.</p><p>Sudah menjadi rahasia umum bahwa Ratu Elizabeth sangat mencintai anjing jenis <i>corgi</i>. Semua bermula ketika ayahnya, Raja George VI, memberinya anjing bernama Dookie. Kemudian, setelah kehadiran Dookie, datanglah Jane dan disusul Susan sebagai hadiah ulang tahunnya ke-18.</p><p>Anjing-anjing <i>corgi</i> peliharaan Ratu Elizabeth selalu menemani beragam aktivitas pemiliknya. Ratu Elizabeth bahkan memboyong mereka saat bulan madu di Skotlandia bersama Pangeran Philip.</p><p>Anjing <i>corgi</i> peliharaan Ratu barangkali merupakan anjing <i>corgi</i> paling beruntung di dunia. Selain dianggap sebagai bagian dari keluarga Kerajaan, berbagai kemewahan yang menjadi fasilitas sang ratu juga dinikmati hewan peliharaannya. Tak ada yang menghalangi mereka ikut naik pesawat privat atau mobil limosin yang ditumpangi Ratu. Anjing peliharaan Ratu bahkan pernah tampil dalam sebuah film pendek bersama aktor Daniel Craig, pemeran film James Bond, untuk pembukaan Olympic Games di London pada 2012.</p><p>Mereka lalu diberi tempat khusus di Buckingham Palace. Ruangan itu diberi nama <i>“The Corgi Room”</i>. Makanan yang diberikan kepada mereka pun tidak boleh sembarangan. Sang ratu sampai menyewa <i>chef</i> khusus untuk membuat makanan anjing. Makanan yang diberikan antara lain daging sapi, daging domba, daging kelinci, dan daging ayam pilihan.</p><p>Ketika Ratu meninggal, banyak pihak yang mengkhawatirkan kondisi anjing-anjing itu. Namun, menurut kabar yang beredar, anjing <i>corgi</i> peliharaan Ratu akan tetap berada di bawah pengasuhan pihak Kerajaan.</p>"
   },
   {
     "id": 3,
-    "nama": "Moon Jae In",
-    "jabatan": "Presiden",
-    "negara":"Korea Selatan",
+    "nama": "Bhumibol Adulyadej",
+    "jabatan": "Raja",
+    "negara":"Thailand",
     "img": "img/presiden/moon.jpeg",
-    "flag":"img/flag/south-korea.png",
-    "hewan":["Anjing si hua hua","Kucing"],
-    "detail":"<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo enim velit nesciunt ea autem consectetur, ipsa quidem laboriosam ab dolorem, repudiandae eveniet voluptates, dolores fugiat repellendus illum aliquid suscipit debitis?.</p> <p><div class='isi__img'><img src='img/presiden/korsel.jpg'/></div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo enim velit nesciunt ea autem consectetur, ipsa quidem laboriosam ab dolorem, repudiandae eveniet voluptates, dolores fugiat repellendus illum aliquid suscipit debitis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo enim velit nesciunt ea autem consectetur, ipsa quidem laboriosam ab dolorem, repudiandae eveniet voluptates, dolores fugiat repellendus illum aliquid suscipit debitis?</p>"
+    "flag":"img/flag/thailand.png",
+    "hewan":["Anjing"],
+    "detail":"<p>Seekor anjing kesayangan Raja Thailand membuat seorang buruh di Thailand didakwa hukuman penjara. Ia terancam dibui hingga 37 tahun karena telah menghina anjing Raja Bhumibol Adulyadej, raja kesembilan Thailand, yang telah berkuasa selama 70 tahun.</p><p>Berdasarkan hukum lese-majeste yang diterapkan secara ketat di Thailand, barang siapa berani menghina Raja dan seluruh anggota Kerajaan di Thailand, akan menerima hukuman. Peraturan ini juga berlaku terhadap anjing peliharaan Raja.</p><p>Pada 1998, Raja Bhumibol jatuh cinta pada pandangan pertama dan mengadopsi seekor anjing liar. Anjing betina itu diberi nama Tongdaeng, yang dalam bahasa Indonesia berarti 'tembaga'. Tongdaeng berhasil mencuri perhatian Raja karena ketaatan dan kesetiaannya.</p><p>Saking sayangnya pada anjing itu, Raja sampai menulis dan menerbitkan sebuah buku berjudul 'Kisah tentang Tongdaeng'. “Tongdaeng anjing terhormat dengan perilaku beradab, sederhana, dan tahu protokol. Dia akan selalu duduk lebih rendah dari sang raja,” tulis Raja di dalam buku.</p><p>Tongdaeng mengembuskan napas terakhir pada usianya yang ke-17, tidak lama setelah kasus penghinaan terhadap dirinya mencuat. Anjing itu diketahui sakit dalam beberapa tahun terakhir. “Khun Tongdaeng mati dengan tenang saat tengah tidur dan santai. Dia mati pada 26 Desember 2015, pukul 23.10 di Istana Klai Kangwon,” bunyi pernyataan yang dikeluarkan dari Fakultas Kedokteran Hewan Universitas Kasetsart.</p>"
   },
   {
     "id": 4,
-    "nama": "Jokowi Dodo",
+    "nama": "Vladimir Putin",
     "jabatan": "Presiden",
-    "negara":"Indonesia",
+    "negara":"Rusia",
     "img": "img/presiden/jokowi.jpg",
-    "flag":"img/flag/indonesia.png",
-    "hewan":["Rusa","Kodok", "Beruang"],
-    "detail":"<p>Presiden Jokowi bisa dibilang sebagai Presiden Indonesia paling anti-mainstream. Sebab Presiden ketujuh Indonesia ini memang memiliki gaya kepresidenan yang berbeda dari kepala pemerintahan yang biasa. Presiden Jokowi selalu membuat gebrakan dalam setiap penampilannya dan selalu bikin para netizen salah fokus.</p> <p>Dan mungkin, salah satu item favorit Presiden Jokowi adalah sarung. Pasalnya tak hanya dalam situasi non-formal saja, Presiden Jokowi juga kedapatan mengenakan sarung dalam kunjungan kerja beberapa waktu lalu di Semarang. Yuk sama-sama kita intip gaya Presiden asal Solo, Jawa Tengah, ini ketika mengenakan sarung.</p>"
+    "flag":"img/flag/rusia.png",
+    "hewan":["Anjing Labrador"],
+    "detail":"<p>Di balik sosok dingin yang kerap Vladimir Putin tunjukkan di depan media, Presiden Rusia ini ternyata bisa sangat lembut terhadap hewan. Di antara seluruh hewan peliharaannya, Putin paling menyayangi seekor anjing Labrador Retriever hitamnya yang bernama lengkap Connie Leod Paulgrave atau Koni.</p><p>Koni lahir di pusat <i>cynology</i> di Kementerian Situasi Darurat di Noginsk pada 1999. Ia dilatih untuk menjadi anjing pencari dan penyelamat. Koni diberikan kepada Putin sebagai hadiah oleh Menteri Pertahanan Rusia Sergey Shoygu pada Desember 2000. Dalam sebuah kesempatan, Putin bahkan mengungkapkan kerap menjadikan Koni sebagai tempat curhat. “Saya mencoba berkonsultasi dengan anjing saya, Koni, yang memberikan saya nasihat yang baik,” ujar Putin.</p><p>Ada momen menarik yang terekam saat Koni dilibatkan dalam pertemuan Putin dengan Kanselir Jerman Angela Merkel. Merkel takut pada anjing karena ia pernah digigit saat masih kecil. Raut wajah Merkel tampak tidak nyaman saat Koni mengendusnya. Putin hanya tersenyum melihat pemandangan itu. Sepertinya ia gembira karena bisa mengintimidasi pesaing politiknya.</p>"
   },
   {
     "id": 5,
-    "nama": "Ratu Elizabeth III",
-    "jabatan": "Presiden",
-    "negara":"Inggris",
+    "nama": "Kaisar Akihito",
+    "jabatan": "Kaisar",
+    "negara":"Jepang",
     "img": "img/presiden/elizabeth.jpeg",
-    "flag":"img/flag/united-kingdom.png",
-    "hewan":["Anjing","Kucing"],
-    "detail":"<p>Kasus suap dari buronan koruptor Djoko Tjandra sebesar USD 5.000 dan pencucian uang USD 444.900 tahun 2019.</p>"
+    "flag":"img/flag/japan.png",
+    "hewan":["Ikan Hias"],
+    "detail":"<p>Sebelum menduduki takhta Kerajaan, siapa sangka Kaisar Akihito merupakan ahli dalam bidang biologi kelautan. Ketertarikan Kaisar Akihito terhadap spesies ikan sepertinya menurun dari sang ayah, Kaisar Hirohito. Ia juga merupakan ahli di bidang biologi kelautan, namun Kaisar Hirohito merupakan ahli ubur-ubur.</p><p>Sepanjang hidupnya hingga menjadi kaisar, Kaisar Akihito rutin melakukan penelitian mengenai ikan gobi. Kaisar yang berkuasa dari 1989 sampai 2019 ini pernah menulis 27 makalah di Japanese <i>Journal of Ichthyology</i> mengenai ikan gobi. Makalah paling awal yang dipublikasikan Akihito di jurnal yang khusus membahas soal ikan itu berjudul ‘On the Scapula of Gobiid Fishes’ (1963).</p><p>Pada 1990-an, nama Akihito ditetapkan sebagai dua nama spesies ikan gobi. Yang pertama adalah <i>Exyrias akihito</i>. Sedangkan ikan gobi yang kedua ini hidup di perairan Flores, Indonesia, yakni bernama <i>Platygobiopsis akihito</i>.</p>"
   },
   {
     "id": 6,
-    "nama": "Moon Jae In",
+    "nama": "Joe Biden",
     "jabatan": "Presiden",
-    "negara":"Korea Selatan",
+    "negara":"Amerika Serikat",
     "img": "img/presiden/korsel.jpg",
-    "flag":"img/flag/south-korea.png",
+    "flag":"img/flag/united-states.png",
     "hewan":["Anjing si hua hua","Kucing"],
-    "detail":"<p>Kasus suap dari buronan koruptor Djoko Tjandra sebesar USD 5.000 dan pencucian uang USD 444.900 tahun 2019.</p>"
+    "detail":"<p>Seekor anjing German Shepherd milik Presiden Amerika Serikat Joe Biden sempat membuat onar di Gedung Putih. Anjing berwarna hitam bernama Major ini sampai ditempatkan di rumah khusus anjing karena beberapa kali ketahuan menggigit manusia hingga membutuhkan bantuan medis.</p><p>Terakhir kali Major dilaporkan menggigit seorang karyawan National Park Service di halaman selatan Gedung Putih pada akhir Maret setahun silam. Major diketahui kaget karena melihat orang tidak dikenal sehingga spontan menggigitnya.</p><p>“Major masih menyesuaikan diri dengan lingkungan barunya,” ucap Sekretaris Pers Ibu Negara AS Jill Biden, Michael La Rosa, kepada ABC News. Major merupakan anjing yang diadopsi oleh Biden dari Delaware Humane Association pada 2018.</p>"
   },
   {
     "id": 7,
-    "nama": "Jokowi Dodo",
+    "nama": "Recep Tayyip Erdogan",
     "jabatan": "Presiden",
-    "negara":"Indonesia",
+    "negara":"Turki",
     "img": "img/presiden/jokowi.jpg",
-    "flag":"img/flag/indonesia.png",
-    "hewan":["Rusa","Kodok", "Beruang"],
-    "detail":"<p>Presiden Jokowi bisa dibilang sebagai Presiden Indonesia paling anti-mainstream. Sebab Presiden ketujuh Indonesia ini memang memiliki gaya kepresidenan yang berbeda dari kepala pemerintahan yang biasa. Presiden Jokowi selalu membuat gebrakan dalam setiap penampilannya dan selalu bikin para netizen salah fokus.</p> <p>Dan mungkin, salah satu item favorit Presiden Jokowi adalah sarung. Pasalnya tak hanya dalam situasi non-formal saja, Presiden Jokowi juga kedapatan mengenakan sarung dalam kunjungan kerja beberapa waktu lalu di Semarang. Yuk sama-sama kita intip gaya Presiden asal Solo, Jawa Tengah, ini ketika mengenakan sarung.</p>"
+    "flag":"img/flag/turkey.png",
+    "hewan":["Anjing"],
+    "detail":"<p>Sebagai pemimpin negara mayoritas muslim, binatang peliharaan yang dipilih Presiden Turki Recep Tayyip Erdogan dan istrinya, Emine Erdogan, cukup mengundang kontroversi. Di depan publik, Presiden ke-12 Turki yang menjabat sejak 2014 itu dan sang ibu negara bahkan tak canggung menyentuh serta mengelus anjing bernama Leblebi tersebut. Anjing peliharaan mereka ditampung di halaman kompleks Kepresidenan di Ankara.</p> <p>Leblebi merupakan anjing hasil adopsi. Sebelum dipelihara Erdogan, Leblebi telah menjalani empat kali operasi setelah mengalami kecelakaan yang menyebabkan anjing malang ini mengalami beberapa patah tulang pinggul. Tak berhenti sampai di situ, dalam sebuah pidato pada hari Natal, Erdogan sempat meminta pejabat kota di seluruh Turki untuk mengumpulkan anjing-anjing telantar di jalanan umum dan alun-alun.</p><p>“Teman-teman hewan, kita dipercayakan kepada kita oleh Tuhan kita. Mari kita lindungi mereka, mari kita lindungi mereka,” tulis pula Erdogan melalui akun Twitternya, @RTErdogan.<p>"
   },
   {
     "id": 8,
-    "nama": "Ratu Elizabeth III",
-    "jabatan": "Presiden",
-    "negara":"Inggris",
+    "nama": "Jacinda Ardern",
+    "jabatan": "Perdana Menteri",
+    "negara":"Selandia Baru",
     "img": "img/presiden/elizabeth.jpeg",
-    "flag":"img/flag/united-kingdom.png",
-    "hewan":["Anjing","Kucing"],
-    "detail":"<p>Kasus suap dari buronan koruptor Djoko Tjandra sebesar USD 5.000 dan pencucian uang USD 444.900 tahun 2019.</p>"
-  },
-  {
-    "id": 9,
-    "nama": "Moon Jae In",
-    "jabatan": "Presiden",
-    "negara":"Korea Selatan",
-    "img": "img/presiden/korsel.jpg",
-    "flag":"img/flag/south-korea.png",
-    "hewan":["Anjing si hua hua","Kucing"],
-    "detail":"<p>Kasus suap dari buronan koruptor Djoko Tjandra sebesar USD 5.000 dan pencucian uang USD 444.900 tahun 2019.</p>"
+    "flag":"img/flag/new-zealand.png",
+    "hewan":["Kucing"],
+    "detail":"<p>Sungguh malang nasib hewan peliharaan Perdana Menteri Selandia Baru Jacinda Ardern. Belum setahun Ardern memperkenalkan Paddles, seekor kucing oranye, di depan masyarakat Selandia Baru. Kucing polidaktil yang memiliki jari tangan dan jari kaki yang jumlahnya abnormal ini tewas di tangan tetangganya sendiri.</p><p>Awalnya kemunculan Paddles sempat membuat kehebohan masyarakat dunia pada Oktober 2018 karena bentuk kaki dan tangannya yang tidak biasa. Paddles bahkan sempat diliput oleh majalah <i>Vanity Fair</i> dan mendampingi Ardern menemui pemimpin dunia.</p><p>Pada 2017, Paddles mati setelah tak sengaja dilindas oleh tetangga Ardern. Pelaku yang melindas Paddles sempat tidak terlacak sehingga menimbulkan banyak pertanyaan publik. Akhirnya, pada 2019, hampir dua tahun kemudian, tetangga Ardern buka suara dan mengakui ketidaksengajaannya.</p>"
   }
 
 ]

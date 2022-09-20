@@ -102,7 +102,7 @@ section {
         animation: bop 1s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards infinite
           alternate;
       }
-      span:last-child,span:nth-child(4) {
+      span:last-child,span:nth-child(3) {
         animation: bopB 1s 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards
           infinite alternate;
           margin-left: 8px;
@@ -1007,6 +1007,13 @@ h3 {
         background: #fff;
         z-index: 89;
         height: 100%;
+        .helping__abs {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          z-index: 1;
+          opacity: .2;
+        }
         &__helping {
           position: absolute;
           top: -16px;
@@ -1020,10 +1027,11 @@ h3 {
         }
         .helping {
           position: absolute;
+          z-index: 12;
           left: 0;
           right: 0;
           // bottom: 0;
-          background: white;
+          background: transparent;
           padding: 8px;
             ul {
               display: block;
@@ -1157,11 +1165,10 @@ h3 {
 }
 .birds {
   position: absolute;
-  top: 0;
-  right: -143px;
-  width: 200px;
+  top: -38px;
+  right: -63px;
+  width: 110px;
   height: auto;
-  opacity: .8;
   @media screen and (max-width:766px) {
     display: none;
   }
