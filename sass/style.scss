@@ -56,7 +56,10 @@ section {
     top: 20%;
     transform: translate(-50%, -50%);
     color: white;
-    text-shadow: 2px 2px #ff6a14;
+    @media screen and (min-width:1300px) {
+      width:51%
+    }
+    // text-shadow: 2px 2px #ff6a14;
     @media screen and (max-width:766px) {
       transform: initial;
       left: initial;
