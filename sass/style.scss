@@ -1046,6 +1046,11 @@ h3 {
           // bottom: 0;
           background: transparent;
           padding: 8px;
+          h2 {
+            @media screen and (max-width:766px) {
+              font-size: 1.7rem;
+            }
+          }
             ul {
               display: block;
               list-style-type: none;
