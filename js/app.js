@@ -49,7 +49,7 @@ $.ajax({
       var detail = response[a].detail; 
       var benefit = response[a].hewan;
       var h = ""
-      benefit.map((a, i) => { h += `<li>${a}</li>` });
+      benefit.map((a, i) => { h += `<li class="bubbles font-big">${a}</li>` });
       $(".slider-nav").append(`
         <div class="flag-img">
           <img src="${flag}" alt="${negara}" title="${negara}" loading="lazy">
@@ -63,15 +63,13 @@ $.ajax({
             <div class="image">
               <img src="${foto}" alt="${nama}" title="${nama}" loading="lazy">
             </div>
-            <div class="helping__abs">
-              <img src="img/bgbg.png" alt="bancground Abstract" title="bancground Abstract" loading="lazy"/>
-            </div>
+           
             <div class="helping">
               <div class="to-top">
                 <h2 class="text-center font-bold">${nama}</h2>
                 <h4 class="text-center">${jabatan} ${negara}</h4>
                 <hr>
-                <div class="text-center font-stdbig">
+                <div class="text-center">
                   Hewan Peliharaan:
                   <ul class="peliharaan">
                     ${h}
