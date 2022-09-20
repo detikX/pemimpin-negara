@@ -70,7 +70,7 @@ $.ajax({
                 <h4 class="text-center">${jabatan} ${negara}</h4>
                 <hr>
                 <div class="text-center">
-                  Hewan Peliharaan:
+                  <b>Hewan Peliharaan:</b>
                   <ul class="peliharaan">
                     ${h}
                   </ul>
