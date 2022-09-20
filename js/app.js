@@ -49,7 +49,7 @@ $.ajax({
       var detail = response[a].detail; 
       var benefit = response[a].hewan;
       var h = ""
-      benefit.map((a, i) => { h += `<li class="bubbles font-big">${a}</li>` });
+      benefit.map((a, i) => { h += `<li class="bubbles font-hewan">${a}</li>` });
       $(".slider-nav").append(`
         <div class="flag-img">
           <img src="${flag}" alt="${negara}" title="${negara}" loading="lazy">
