@@ -1191,7 +1191,8 @@ h3 {
   width: 110px;
   height: auto;
   @media screen and (max-width:766px) {
-    display: none;
+    top: -60px;
+    right: 0;
   }
   img {
     width: 100%;
