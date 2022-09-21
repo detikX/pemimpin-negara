@@ -6,7 +6,10 @@ $orange: #f7941f;
 @import url(https://fonts.googleapis.com/css?family=Bubblegum+Sans);
 body {
   // background: linear-gradient(to bottom, #50a3a2 0%, #78cc6d 100%)!important;
-  
+  background: transparent;
+}
+main {
+  background: transparent;
 }
 // main {
 //   position: relative;
@@ -103,6 +106,7 @@ body {
 section {
   // background: #ff854533;
   position: relative;
+  background-color: transparent;
   padding: 32px 0;
   z-index: 60;
   // background: linear-gradient(to bottom, rgba(76, 193, 134,.5) 10%,transparent);
@@ -1013,6 +1017,7 @@ h3 {
 .gradient{
   position: fixed;
   overflow: hidden;
+  z-index: 9;
   top: 0;
   bottom: 0;
   left: 0;
