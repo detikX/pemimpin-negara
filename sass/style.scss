@@ -39,7 +39,7 @@ section {
   }
 
   @media screen and (max-width:766px) {
-    height: 80vh;
+    height: 100vh;
   }
 
   .sumbers {
@@ -56,31 +56,17 @@ section {
     top: 20%;
     transform: translate(-50%, -50%);
     color: white;
-    @media screen and (min-width:1300px) {
-      width:51%
+    width: 62%;
+    @media screen and (min-width:1440px) {
+      top: 15%;
     }
-    // text-shadow: 2px 2px #ff6a14;
     @media screen and (max-width:766px) {
       transform: initial;
       left: initial;
+      width: 100%;
       top: 13%;
     }
-    // width: 80vw;
-    /*h2 {
-      color: #fff;
-      // font-weight: bold;
-      text-align: center;
-      font-size: 72px;
-      text-shadow: 2px 2px #ff6a14;
-      font-family: 'Bubblegum Sans' !important;
-      @media screen and (max-width:766px) {
-        
-        font-size: 38px;
-        line-height: 40px;
-        text-align: right;
-        margin-right: 24px;
-      }
-    }*/
+   
     h2 {
       margin: 0;
       font-size: 62px;
@@ -88,11 +74,15 @@ section {
       color: white;
       
       @media screen and (min-width:1440px) {
-        width: 30vw;  
+        width: 61vw;  
+        text-align: center;
+        font-size: 85px;
       }
       @media screen and (max-width:766px) {
         line-height: 54px;
-        width: auto;
+        font-size: 48px;
+        width: 100%;
+        // border: 1px solid;
       }
       text-shadow: 0 0.1em 20px rgba(0, 0, 0, .8), 0.05em -0.03em 0 rgba(0, 0, 0, .8),
         0.05em 0.005em 0 rgba(0, 0, 0, .8), 0em 0.08em 0 rgba(0, 0, 0, .8),
@@ -143,7 +133,96 @@ section {
       object-fit: cover;
     }
   }
-
+  .tops86 {
+    top: 86px;
+    @media screen and (max-width:766px) {
+      height: 95vh;
+      top: 60px;
+    }
+  }
+  &__img {
+    // display: inline-block;
+    // width: 25%;
+    position: absolute;
+    .eya__img {
+      @media screen and (max-width:766px) {
+        width: 35px;
+        display: inline-block;
+      }
+      img {
+        @media screen and (max-width:766px) {
+          width: 100%;
+        } 
+      }
+    }
+    &.eya {
+      width: 60px;
+      height: auto;
+      right: 8px;
+      opacity: .7;
+      @media screen and (max-width:766px) {
+        // display: none;
+        width: 50%;
+        top: 30%;
+        height: auto;
+        right: initial;
+        left: 8px;
+        display: block;
+      }
+      
+      img {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 8px;
+        object-fit: contain;
+      }
+      @media screen and (min-width:1440px) {
+        right: 15%;
+      }
+    }
+    &.one {
+      left: 0;
+      @media screen and (min-width:1440px) {
+        left: 8%;
+      }
+      @media screen and (max-width:766px) {
+        left: -20%;
+        bottom: 0;
+        z-index: 9;
+      }
+    }
+    &.two {
+      left: 30%;
+      @media screen and (min-width:1440px) {
+        left: 31%;
+      }
+      @media screen and (max-width:766px) {
+        left: -102px;
+        width: 100%;
+        display: none;
+        top: 91px;
+      }
+    }
+    &.three {
+      right: -5%;
+      @media screen and (min-width:1440px) {
+        right: 14%;
+      }
+      @media screen and (max-width:766px) {
+        right: -105px;
+        width: 100%;
+        top: 110px;
+      }
+    }
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      @media screen and (max-width:766px) {
+        object-fit: cover;
+      }
+    }
+  }
 }
 :root {
   --color-fur: #ffb141;
@@ -1151,7 +1230,7 @@ h3 {
 
 .dog {
   position: absolute;
-  bottom: 0px;
+  bottom: -60px;
   left: -50%;
   opacity: .8;
   @media screen and (max-width:766px) {
@@ -1258,6 +1337,20 @@ h3 {
   }
 }
 
+.logo-detik {
+  position: absolute;
+  left: 12px;
+  top: 12px;
+  z-index: 999;
+  width: 90px;
+
+  @media screen and (max-width: 766px) {
+    top: 12px;
+    left: 50%;
+    width: 80px;
+    transform: translate(-50%, 0px);
+  }
+}
 
 
 .bubbles {
