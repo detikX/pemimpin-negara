@@ -28,6 +28,10 @@ h3 {
   // color: #fafafa;
 }
 
+h1, h2, h3, h4, h5, h6, .body_text blockquote.sisip {
+  font-family: 'Quicksand' !important;
+}
+
 main {
   // margin-bottom: 122px;
   position: relative;
@@ -62,7 +66,7 @@ main {
 .font {
   &-bold {
     // font-weight: bold;
-    // font-family: "Aleo", serif;
+    font-family: "Quicksand", serif;
     font-weight: 700;
     // font-family: "Bebas Neue", serif;
   }

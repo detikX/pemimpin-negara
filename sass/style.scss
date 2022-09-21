@@ -1227,6 +1227,9 @@ h3 {
           // bottom: 0;
           background: transparent;
           padding: 8px;
+          @media screen and (max-width:766px) {
+            bottom: 0;
+          }
           h2 {
             @media screen and (max-width:766px) {
               font-size: 1.7rem;
@@ -1440,7 +1443,7 @@ h3 {
 }
 
 .logo-detik {
-  position: absolute;
+  position: fixed;
   left: 12px;
   top: 12px;
   z-index: 999;
@@ -1468,9 +1471,13 @@ main {
 }
 
 .bubbles {
-  font-family: 'Bubblegum Sans';
+  font-family: 'Bubblegum Sans' !important;
 }
 
 .font-hewan {
   font-size: 32px;
+}
+
+.footer {
+  z-index: 991;
 }
